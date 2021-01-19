@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		 <div class="historic-bar" style="width:542px; margin-bottom:5px;">
+			<span class="download-data-link"><a download target"_blank" style='cursor:pointer'  >Download file in csv format</a></span>
+		</div>
+		<div id='csvContentDiv' style='display:none;'>"Date","Symbol","Series","Open Price","High Price","Low Price","Last Traded Price ","Close Price","Total Traded Quantity","Turnover (in Lakhs)":"14-Jan-2021","BIOCON","EQ","463.10","469.30","458.55","        466.50","466.45","34,84,973","16,133.57":</div>
+	
+
+Date, Symbol, Series, Open Price, High Price, Low Price, Last Traded Price , Close Price, Total Traded Quantity, Turnover (in Lakhs)
+14-Jan-2021, BIOCON, EQ, 463.10, 469.30, 458.55,         466.50, 466.45, 3484973, 16133.57
+
+
+
